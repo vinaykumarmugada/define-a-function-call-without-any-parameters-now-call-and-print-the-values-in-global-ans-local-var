@@ -1,0 +1,1 @@
+# define-a-function-call-without-any-parameters-now-call-and-print-the-values-in-global-ans-local-var
